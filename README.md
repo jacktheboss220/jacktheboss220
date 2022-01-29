@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: jacktheboss2.2.0@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacktheboss220&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacktheboss220&repo=convoychat" />
+  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+" />
 </a>

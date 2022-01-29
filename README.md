@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: jacktheboss2.2.0@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)/>
-</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-)

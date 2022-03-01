@@ -2,6 +2,8 @@
 <img src="https://i.ibb.co/yYgNrZd/jack.jpg"  width="550" height="250">
   </p>
 
+![](https://komarev.com/ghpvc/?username=jacktheboss200&color=blueviolet)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on python

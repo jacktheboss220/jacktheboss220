@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Js, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacktheboss220](https://github.com/jacktheboss220)
+- 👨‍💻 All of my projects are available at [😊this link😊](https://github.com/jacktheboss220?tab=repositories)
 
 - 📫 How to reach me **jacktheboss2.2.0@gmail.com**
 
@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/jacktheboss220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacktheboss220" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahesh-kumar-77929b218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-kumar" height="30" width="40" /></a>
+<a href="https://wa.me/915862796243?text=Hi!!" target="blank"><img align="center" src="https://i.ibb.co/Ny7dqT6/4202050chatlogosocialsocialmediawhatsapp-115638-115663.png" alt="Whatsapp" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

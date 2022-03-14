@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktheboss220" alt="jacktheboss220" /></a> </p>
 
-- 🔭 I’m currently working on [Blender20](https://github.com/jacktheboss220/Blender2.0)
+- 🔭 I’m currently working on [Blender2.0](https://github.com/jacktheboss220/Blender2.0)
 
 - 🌱 I’m currently learning **Js, Python**
 

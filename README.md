@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktheboss220&" alt="jacktheboss220" /></p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates&animation=grow_out_in)

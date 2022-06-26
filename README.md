@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [WhatsApp Multi-Device Bot](https://github.com/jacktheboss220/MyBitBot-MD)
 
-- 🌱 I’m currently learning **Js, Java, Python.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 

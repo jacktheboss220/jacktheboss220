@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/yYgNrZd/jack.jpg"  width="550" height="250">
+<img src="https://i.ibb.co/37GzLF1/my-Github-Logo.gif"  width="350" height="350">
   </p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>

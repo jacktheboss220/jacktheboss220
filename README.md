@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktheboss220" alt="jacktheboss220" /></a> </p>
 
-- 🔭 I’m currently working on [WhatsApp Multi-Device Bot](https://github.com/jacktheboss220/MyBitBot-MD)
+- 🔭 I’m currently working on [WhatsApp Multi-Device Bot](https://github.com/jacktheboss220/WhatsAppBotMultiDevice)
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Web Developer**
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 

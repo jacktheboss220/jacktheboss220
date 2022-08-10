@@ -21,7 +21,7 @@
 
 <!-- - 📄 Know about my experiences [CV](https://1drv.ms/w/s!Al5z2tz5TWH7kGkuvln1BYDN5vkT?e=zMKpcR) -->
 
-- ⚡Fact about me **I don't like talk much.**
+- ⚡Fact about me:- **I don't like talking much.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

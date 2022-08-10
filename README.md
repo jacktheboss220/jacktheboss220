@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 
-- 💬 Ask me about **java, js.**
+- 💬 Ask me about **Logic Building, Control Flow.**
 
 - 📫 How to reach me **mahesh.kumar.mk.0229@gmail.com**
 

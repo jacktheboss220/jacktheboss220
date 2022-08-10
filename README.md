@@ -3,7 +3,7 @@
   </p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>
-<h3 align="center">A Student who want to become web developer + software engineer</h3>
+<h3 align="center">A Student who want to become Web Developer + Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacktheboss220&label=Profile%20views&color=080eba&style=flat" alt="jacktheboss220" /> </p>
 

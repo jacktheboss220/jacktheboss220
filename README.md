@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [WhatsApp Multi-Device Bot](https://github.com/jacktheboss220/WhatsAppBotMultiDevice)
 
-- 🌱 I’m currently learning **Web Developer**
+- 🌱 I’m currently learning **HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 

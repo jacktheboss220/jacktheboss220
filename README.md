@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Website](https://copyrightedd.herokuapp.com)
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **Python,React.js**
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 

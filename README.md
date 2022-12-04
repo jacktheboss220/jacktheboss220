@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacktheboss220" alt="jacktheboss220" /></a> </p>
 
-- 🔭 I’m currently working on [Website](https://copyrightedd.herokuapp.com)
+- 🔭 I’m currently working on [Whatsapp Bot MD](https://github.com/jacktheboss220/WhatsAppBotMultiDevice)
 
-- 🌱 I’m currently learning **Python,React.js**
+- 🌱 I’m currently learning **React.js,CSS3**
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 

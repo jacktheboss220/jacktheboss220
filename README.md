@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=dark&title_color=18ec69&text_color=d91212&bg_color=181616&locale=en" alt="jacktheboss220" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacktheboss220&theme=dark" alt="jacktheboss220" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/jacktheboss220)

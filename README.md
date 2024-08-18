@@ -11,7 +11,7 @@
 
 <!-- 🔭 I’m currently working on [Whatsapp Bot MD](https://github.com/jacktheboss220/WhatsAppBotMultiDevice) -->
 
-- 🌱 I’m currently learning **Python,C#**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👨‍💻 All of my projects are available at [Work](https://github.com/jacktheboss220?tab=repositories)
 

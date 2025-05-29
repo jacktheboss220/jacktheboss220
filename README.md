@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co/bsPz3ff/my-Github-Logo.gif" width="350" height="350">
+<!--   <img src="https://i.ibb.co/bsPz3ff/my-Github-Logo.gif" width="350" height="350"> -->
+  <img src="https://i.ibb.co/q33JDVjn/Java-Script-AI-and-Data-Visualisation.png"  height="350">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>

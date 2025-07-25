@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/q33JDVjn/Java-Script-AI-and-Data-Visualisation.png" height="350" alt="Tech Banner" />
+  <img src="Java-Script-AI-and-Data-Visualisation.png" height="350" alt="Tech Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>

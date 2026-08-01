@@ -1,0 +1,20 @@
+<svg width="330" height="420" viewBox="0 0 330 420" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-4 165 20; 4 165 20; -4 165 20" dur="4s" repeatCount="indefinite"/>
+    <line x1="165" y1="0" x2="165" y2="60" stroke="#18ec69" stroke-width="4"/>
+    <circle cx="165" cy="20" r="6" fill="#18ec69"/>
+    <rect x="45" y="60" width="240" height="330" rx="18" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <rect x="45" y="60" width="240" height="80" rx="18" fill="#18ec69"/>
+    <rect x="45" y="120" width="240" height="20" fill="#161b22"/>
+    <defs>
+      <clipPath id="avatarClip">
+        <circle cx="165" cy="180" r="55"/>
+      </clipPath>
+    </defs>
+    <image href="https://github.com/jacktheboss220.png" x="110" y="125" width="110" height="110" clip-path="url(#avatarClip)"/>
+    <circle cx="165" cy="180" r="55" fill="none" stroke="#18ec69" stroke-width="3"/>
+    <text x="165" y="270" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#f0f6fc">Mahesh Kumar</text>
+    <text x="165" y="300" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="15" fill="#8b949e">Cloud &amp; Data Ops Engineer</text>
+    <text x="165" y="330" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#18ec69">@jacktheboss220</text>
+  </g>
+</svg>

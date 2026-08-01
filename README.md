@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="Java-Script-AI-and-Data-Visualisation.png" height="280" alt="Tech Banner" />
-
-<h1>Hi 👋, I'm Mahesh Kumar</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=18ec69&center=true&vCenter=true&width=600&lines=Cloud+%26+Data+Operations+Engineer+%40+BrandContext;Backend+Developer+%7C+Automation+Enthusiast;Building+with+Node.js%2C+Express%2C+Google+APIs;Let+the+logic+do+the+talking.)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./mahesh-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./mahesh-banner-light.svg">
+  <img src="./mahesh-banner-dark.svg" alt="Mahesh Kumar — Cloud & Data Operations Engineer" width="100%"/>
+</picture>
 
 <img src="https://komarev.com/ghpvc/?username=jacktheboss220&label=Profile%20views&color=18ec69&style=flat" alt="Profile views" />
 &nbsp;
@@ -27,7 +27,14 @@
 
 ---
 
-<div align="center">
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="./mahesh-lanyard.svg" alt="Mahesh Kumar ID badge" width="280"/>
+
+</td>
+<td width="62%" valign="middle">
 
 ### 🚀 Featured Projects
 
@@ -39,9 +46,13 @@
 | [news-js](https://github.com/jacktheboss220/news-js) | `EJS` | — |
 | [LeetCode](https://github.com/jacktheboss220/LeetCode) — random LeetCode solutions | `JavaScript` | — |
 
-> "The quieter you become, the more you can hear — in code and in life." 🧘‍♂️
+<br/>
 
-</div>
+> 💚 *"The quieter you become, the more you can hear — in code and in life."*
+
+</td>
+</tr>
+</table>
 
 ---
 

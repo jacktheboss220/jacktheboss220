@@ -27,6 +27,16 @@
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**WhatsAppBotMultiDevice**](https://github.com/jacktheboss220/WhatsAppBotMultiDevice) ⭐ 230 | Multi-device WhatsApp bot with utility & group management commands | JavaScript |
+| [**insta-downloader**](https://github.com/jacktheboss220/insta-downloader) | Instagram media downloader — scraping + automation | JavaScript |
+| [**weather-app-training**](https://github.com/jacktheboss220/weather-app-training) | Weather app consuming a public REST API | JavaScript |
+
+---
+
 ### 📫 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahesh__01)
@@ -75,16 +85,32 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktheboss220&theme=cobalt&layout=compact&langs_count=8" width="100%" height="195" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktheboss220&layout=compact&langs_count=8&theme=dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="100%" height="195" alt="Top Languages"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=dark&title_color=18ec69&text_color=d91212&bg_color=181616" width="100%" height="195" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="100%" height="195" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacktheboss220&theme=dark" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacktheboss220&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jacktheboss220&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacktheboss220/jacktheboss220/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacktheboss220/jacktheboss220/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jacktheboss220/jacktheboss220/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---

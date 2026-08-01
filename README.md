@@ -1,17 +1,18 @@
-<p align="center">
-  <img src="Java-Script-AI-and-Data-Visualisation.png" height="350" alt="Tech Banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>
-<h3 align="center">Cloud & Data Operations Engineer @ BrandContext | Backend Developer | Automation Enthusiast</h3>
+<img src="Java-Script-AI-and-Data-Visualisation.png" height="280" alt="Tech Banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacktheboss220&label=Profile%20views&color=080eba&style=flat" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/jacktheboss220?style=flat&color=0969da&labelColor=1c1c1c&label=Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/jacktheboss220?style=flat&color=f0c030&labelColor=1c1c1c&label=Stars" />
-</p>
+<h1>Hi 👋, I'm Mahesh Kumar</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=18ec69&center=true&vCenter=true&width=600&lines=Cloud+%26+Data+Operations+Engineer+%40+BrandContext;Backend+Developer+%7C+Automation+Enthusiast;Building+with+Node.js%2C+Express%2C+Google+APIs;Let+the+logic+do+the+talking.)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=jacktheboss220&label=Profile%20views&color=18ec69&style=flat" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/jacktheboss220?style=flat&color=0969da&labelColor=1c1c1c&label=Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/jacktheboss220?style=flat&color=f0c030&labelColor=1c1c1c&label=Stars" />
+
+</div>
 
 ---
 
@@ -20,10 +21,27 @@
 - 🔧 Working with **Node.js**, **Puppeteer.js**, **Google APIs**, and **Express.js** for backend automation and data solutions
 - 📊 Built **20+ Chart.js visualizations** (line, bar, grouped, stacked, combo) using Google Sheets data via Node.js + Express, deployed on **Google Cloud Run**
 - 🧠 Skilled in **logic building**, **data scraping**, and **DOM manipulation**
-- 👨‍💻 Explore my work: [GitHub Repositories](https://github.com/jacktheboss220?tab=repositories)
 - 🎓 MCA in Data Science & AI — Babu Banarasi Das University (BBDU)
 - 💬 Ask me about: **JavaScript**, **Node.js**, **REST APIs**, and **automated data pipelines**
 - ⚡ Fun fact: **I prefer code over conversation — let the logic do the talking.**
+
+---
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+| Project | Tech | ⭐ |
+|:---|:---:|:---:|
+| [WhatsAppBotMultiDevice](https://github.com/jacktheboss220/WhatsAppBotMultiDevice) — WhatsApp bot with utility & group management | `JavaScript` | 230 |
+| [weather-app-training](https://github.com/jacktheboss220/weather-app-training) | `JavaScript` | 2 |
+| [insta-downloader](https://github.com/jacktheboss220/insta-downloader) | `JavaScript` | — |
+| [news-js](https://github.com/jacktheboss220/news-js) | `EJS` | — |
+| [LeetCode](https://github.com/jacktheboss220/LeetCode) — random LeetCode solutions | `JavaScript` | — |
+
+> "The quieter you become, the more you can hear — in code and in life." 🧘‍♂️
+
+</div>
 
 ---
 
@@ -70,22 +88,32 @@
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktheboss220&theme=cobalt&layout=compact&langs_count=8" width="100%" height="195" alt="Top Languages"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=dark&title_color=18ec69&text_color=d91212&bg_color=181616" width="100%" height="195" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats & Graphs
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacktheboss220&theme=dark" width="70%" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacktheboss220&theme=cobalt&layout=compact&langs_count=8" height="185" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jacktheboss220&show_icons=true&theme=dark&title_color=18ec69&text_color=d91212&bg_color=181616" height="185" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jacktheboss220&theme=dark&ring=18ec69&fire=18ec69&currStreakLabel=18ec69" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacktheboss220&bg_color=181616&color=18ec69&line=18ec69&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jacktheboss220&theme=darkhub&no-frame=true&row=1&column=6" width="95%" alt="Trophies"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/jacktheboss220/jacktheboss220/output/github-snake-dark.svg" alt="Contribution snake" width="95%"/>
+
+</div>
 
 ---
 
@@ -97,4 +125,4 @@
 
 ---
 
-> "The quieter you become, the more you can hear — in code and in life." 🧘‍♂️
+<p align="center"><i>⭐️ Always learning, always building.</i></p>
